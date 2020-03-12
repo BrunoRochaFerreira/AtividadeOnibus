@@ -1,0 +1,519 @@
+*{
+	margin: 0;
+	padding: 0;	
+}
+
+#ticketbus{
+	height: 70px;
+	width: 100%;
+	background-color: #aaa;
+}
+#onibus{
+	height: 870px;
+	width: 50%;
+	background-color:gray ;
+	margin-top: 2%;
+	margin-left: 2%;
+	border-top-left-radius: 80px;
+	border-top-right-radius: 80px;
+	float: left;
+}
+#poltrona1{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 20%;
+	margin-left: 2%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#poltrona2{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 20%;
+	margin-left: 20%;	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona3{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona4{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+
+#poltrona5{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 2%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona6{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona7{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#poltrona8{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona9{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 2%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona10{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona11{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona12{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona13{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 2%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona14{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona15{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona16{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona17{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 2%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona18{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona19{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona20{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona21{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 2%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona22{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona23{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona24{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona25{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 2%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona26{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona27{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona28{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona29{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 2%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona30{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona31{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona32{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona33{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 2%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona34{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona35{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona36{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona37{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 2%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona38{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona39{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+#poltrona40{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona41{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 2%;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#poltrona42{
+	height: 53px;
+	width: 11%;
+	border-radius: 15%;
+	background-color: lightgray;
+	margin-top: 2%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#banheiro{
+	height: 56px;
+	width: 31%;
+	border-radius: 8%;
+	background-color: lightgray;
+	margin-top: -7.8%;
+	margin-left: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}	
+h1{
+	text-align: center;
+}
+@media(
+ max-width: 768px;
+
+	)
+{
+	#onibus {width: 50px;}
+
+
+}
